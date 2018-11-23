@@ -1,0 +1,10 @@
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\420.csprojAssemblyReference.cache
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\_420.Form1.resources
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\_420.Properties.Resources.resources
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\420.csproj.GenerateResource.cache
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\420.csproj.CoreCompileInputs.cache
+C:\Users\kalajaya\source\repos\420\420\bin\Debug\420.exe.config
+C:\Users\kalajaya\source\repos\420\420\bin\Debug\420.exe
+C:\Users\kalajaya\source\repos\420\420\bin\Debug\420.pdb
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\420.exe
+C:\Users\kalajaya\source\repos\420\420\obj\Debug\420.pdb
